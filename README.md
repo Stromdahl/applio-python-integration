@@ -8,8 +8,9 @@ $ pip install -r requirements.txt
 
 ## Use
 
-This package exports the following identifiers: `franc`, `francAll`.
-There is no default export.
+```text
+add the applio.py file from the src folder to your project
+```
 
 ```python
 import applio
